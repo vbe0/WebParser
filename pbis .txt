@@ -1,0 +1,17 @@
+Web crawler to parse a websites for articles containing certain word. 
+
+I want to be able to load and read a webpage. 
+
+I want to be able to load and read all webpages linked from the main webpage. 
+
+I want to be able to search for a word in the webpages. 
+
+I want to collect all webpages that contain the search word. 
+
+I want to see the number of pages found. 
+
+I want to see content of the pages found. 
+
+
+
+
